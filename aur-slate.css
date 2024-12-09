@@ -42,9 +42,9 @@ body {
 	display: block;
 }
 #aur-footer {
-	border-top: 2px;
+	border-top: 1px solid black;
 	border-top-color: black;
-	background-color: #F3FEF8;
+	background-color: #FEFEFE;
 	vertical-align: middle;
 	margin: 0px;
 	height: auto;
