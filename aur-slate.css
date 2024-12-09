@@ -44,7 +44,7 @@ body {
 #aur-footer {
 	border-top: 2px;
 	border-top-color: black;
-	background-color: #DCECE3;
+	background-color: #F3FEF8;
 	vertical-align: middle;
 	margin: 0px;
 	height: auto;
@@ -61,6 +61,4 @@ body {
 .container a i {
 	color: #076255;
 }
-.col-xs-2 {
-	padding-right:1px;
-}
+
