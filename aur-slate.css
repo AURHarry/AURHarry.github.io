@@ -41,20 +41,26 @@ body {
 	width: 25%;
 	display: block;
 }
-#aur-footer p {
-	background-color: #232323;
+#aur-footer {
+	border-top: 2px;
+	border-top-color: black
+	background-color: #DCECE3;
 	vertical-align: middle;
 	margin: 0px;
 	height: auto;
 	padding: 8px;
 	width: 100%;
 	text-decoration: none;
-	color: white;
+	color: #000000;
 	text-align: center
 }
 #footer3 a i {
 	color: #076255;
+	padding-right:15px;
 }
 .container a i {
 	color: #076255;
+}
+.col-xs-2 {
+	padding-right:1px;
 }
